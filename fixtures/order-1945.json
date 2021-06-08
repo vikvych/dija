@@ -1,0 +1,51 @@
+{
+  "id": 1945,
+  "order_display_id": "2208",
+  "customer": "John Bon John",
+  "status": "to_pick",
+  "created_at": "2021-01-16T18:39:16Z",
+  "number_of_items": 10,
+  "store_name": "HUB-123",
+  "delivery_notes": "Please don't ring the bell",
+  "line_items": [{
+      "id": 221,
+      "quantity": 1,
+      "name": "Jacobs Cream Crackers 300g",
+      "barcode": "5000137121994",
+      "shelf_mapping": [
+        "PACK-A-01-S04"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Jacob_s_Original_Cream_Crackers_300g.jpg"
+    },
+    {
+      "id": 222,
+      "quantity": 3,
+      "name": "Sun Pat Smooth Peanut Spread 300g",
+      "barcode": "5060391625577",
+      "shelf_mapping": [
+        "PACK-C-09-S02"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Sun_Pat_Smooth_Peanut_Butter_300g.jpg"
+    },
+    {
+      "id": 38,
+      "quantity": 4,
+      "name": "Pepsi Max (330ml)",
+      "barcode": "0000087170146",
+      "shelf_mapping": [
+        "PACK-A-01-S02"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Pepsi_Max_330ml.jpg"
+    },
+    {
+      "id": 158,
+      "quantity": 2,
+      "name": "Cadbury Twirl Bites (95g)",
+      "barcode": "7622210818454",
+      "shelf_mapping": [
+        "PACK-B-01-S02"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Cadbury_Twirl_Bites_Chocolate_Bag_95g.jpg"
+    }
+  ]
+}

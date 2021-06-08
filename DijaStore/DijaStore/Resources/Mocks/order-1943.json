@@ -1,0 +1,151 @@
+{
+  "id": 1943,
+  "order_display_id": "2206",
+  "customer": "John Wick",
+  "status": "to_pick",
+  "created_at": "2021-01-16T18:34:16Z",
+  "number_of_items": 20,
+  "store_name": "HUB-123",
+  "delivery_notes": "",
+  "line_items": [{
+      "id": 221,
+      "quantity": 1,
+      "name": "Jacobs Cream Crackers 300g",
+      "barcode": "5000137121994",
+      "shelf_mapping": [
+        "PACK-A-01-S04"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Jacob_s_Original_Cream_Crackers_300g.jpg"
+    },
+    {
+      "id": 101,
+      "quantity": 2,
+      "name": "Grom Cioccolato Tub (460ml)",
+      "barcode": "8714100719626",
+      "shelf_mapping": [
+        "FROZ-A-01-S01"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Grom_Cioccolato_Tub_460_ml.jpg"
+    },
+    {
+      "id": 27,
+      "quantity": 3,
+      "name": "Innocent Apple Juice (330ml)",
+      "barcode": "5038862104302",
+      "shelf_mapping": [
+        "CHIL-A-01-S02"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/innocent_apple_juice_330ml.jpg"
+    },
+    {
+      "id": 222,
+      "quantity": 3,
+      "name": "Sun Pat Smooth Peanut Spread 300g",
+      "barcode": "5060391625577",
+      "shelf_mapping": [
+        "PACK-C-09-S02"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Sun_Pat_Smooth_Peanut_Butter_300g.jpg"
+    },
+    {
+      "id": 38,
+      "quantity": 4,
+      "name": "Pepsi Max (330ml)",
+      "barcode": "0000087170146",
+      "shelf_mapping": [
+        "PACK-A-01-S02"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Pepsi_Max_330ml.jpg"
+    },
+    {
+      "id": 158,
+      "quantity": 4,
+      "name": "Cadbury Twirl Bites (95g)",
+      "barcode": "7622210818454",
+      "shelf_mapping": [
+        "PACK-B-01-S02"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Cadbury_Twirl_Bites_Chocolate_Bag_95g.jpg"
+    },
+    {
+      "id": 101,
+      "quantity": 2,
+      "name": "Grom Cioccolato Tub (460ml)",
+      "barcode": "8714100719626",
+      "shelf_mapping": [
+        "FROZ-A-01-S01"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Grom_Cioccolato_Tub_460_ml.jpg"
+    },
+    {
+      "id": 104,
+      "quantity": 2,
+      "name": "Häagen Dazs Vanilla Ice Cream 460ml",
+      "barcode": "3415581101928",
+      "shelf_mapping": [
+        "FROZ-D-10-S08"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/H%EF%BF%BDagen_Dazs_Vanilla_Ice_Cream_460ml.jpg"
+    },
+    {
+      "id": 105,
+      "quantity": 2,
+      "name": "Häagen Dazs Belgian Chocolate 460ml",
+      "barcode": "3415581113921",
+      "shelf_mapping": [
+        "FROZ-D-10-S09"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/H%EF%BF%BDagen_Dazs_Belgian_Chocolate_Ice_Cream_460ml.jpg"
+    },
+    {
+      "id": 55,
+      "quantity": 4,
+      "name": "Fentimans Cherrytree Cola (275ml)",
+      "barcode": "5029396738736",
+      "shelf_mapping": [
+        "CHIL-D-10-S09"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Fentimans_Cherry_Cola_275ml.jpg"
+    },
+    {
+      "id": 60,
+      "quantity": 4,
+      "name": "Fever Tree Italian Blood Orange Soda (500ml)",
+      "barcode": "5060605060576",
+      "shelf_mapping": [
+        "PACK-D-10-S09"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Fever_Tree_Italian_Blood_Orange_Soda_500ml.jpg"
+    },
+    {
+      "id": 2,
+      "quantity": 1,
+      "name": "Red Bull Sugar Free (250ml)",
+      "barcode": "0000090162800",
+      "shelf_mapping": [
+        "PACK-D-10-S09"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Red_Bull_Energy_Drink__Sugar_Free__250ml.jpg"
+    },
+    {
+      "id": 101,
+      "quantity": 2,
+      "name": "Grom Cioccolato Tub (460ml)",
+      "barcode": "8714100719626",
+      "shelf_mapping": [
+        "FROZ-A-01-S01"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/Grom_Cioccolato_Tub_460_ml.jpg"
+    },
+    {
+      "id": 27,
+      "quantity": 3,
+      "name": "Innocent Apple Juice (330ml)",
+      "barcode": "5038862104302",
+      "shelf_mapping": [
+        "CHIL-A-01-S02"
+      ],
+      "image_url": "https://dija-product-images-temp.s3.eu-west-2.amazonaws.com/all_images/innocent_apple_juice_330ml.jpg"
+    }
+  ]
+}
